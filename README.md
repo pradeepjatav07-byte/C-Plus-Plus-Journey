@@ -13,7 +13,7 @@ A structured collection of practical C++ programs, object-oriented concepts, and
 | Day | Topic / Challenge Description | Key Files | Status |
 | :---: | :--- | :--- | :---: |
 | **Day 01** | C++ Manipulators (`setw`, `setfill`) & OOP Logic (GCD / Even-Odd Count & Sum) | `Day_01/Manipulator_Patterns.cpp`<br>`Day_01/GCD_Even_Odd_Class.cpp` | ✅ Completed |
-| **Day 02** | Hourglass Number Pattern & Series Summation Class | `Day_02/Hourglass_Pattern.cpp`<br>`Day_02/Series_Summation.cpp` | ⏳ Pending |
+| **Day 02** | Hourglass Number Pattern & Series Summation Class | `Day_02/Hourglass_Pattern.cpp`<br>`Day_02/Series_Summation.cpp` | ✅ Completed |
 | **Day 03** | Substring Formatter & Word Reversal (Class Based) | `Day_03/` | ⏳ Pending |
 | **Day 04** | In-place Word Reverse & Second Maximum Finder | `Day_04/` | ⏳ Pending |
 | **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | `Day_05/` | ⏳ Pending |
