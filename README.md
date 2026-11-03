@@ -1,5 +1,3 @@
-<div align="center">
-
 # ⚡ C++ Programming Journey (BCA Semester 2)
 
 An industry-standard repository documenting a 22-practical problem-solving journey across C++ fundamentals, Object-Oriented Programming (OOP), and Core Data Structures.
@@ -28,4 +26,37 @@ C-Plus-Plus-Journey/
 ├── Day_02/
 │   ├── Hourglass_Pattern.cpp
 │   └── Series_Summation.cpp
-└── ...
+├── Day_03/
+│   ├── Substring_Formatter.cpp
+│   └── Word_Reversal.cpp
+└── 
+```
+## 📌 Practical Syllabus & Progress Tracker
+
+|     Day    | Topic / Challenge Description | Source Files | Status |
+| :---: | :--- | :--- | :---: |
+| **Day 01** | C++ Manipulators (`setw`, `setfill`) & OOP Logic (GCD / Even-Odd Count & Sum) | [`Manipulator_Patterns.cpp`](Day_01/Manipulator_Patterns.cpp)<br>[`GCD_Even_Odd_Class.cpp`](Day_01/GCD_Even_Odd_Class.cpp) | ✅ Completed |
+| **Day 02** | Hourglass Number Pattern & Series Summation Class | [`Hourglass_Pattern.cpp`](Day_02/Hourglass_Pattern.cpp)<br>[`Series_Summation.cpp`](Day_02/Series_Summation.cpp) | ✅ Completed |
+| **Day 03** | Substring Formatter & Word Reversal (Class Based) | [`Substring_Formatter.cpp`](Day_03/Substring_Formatter.cpp)<br>[`Word_Reversal.cpp`](Day_03/Word_Reversal.cpp) | ✅ Completed |
+| **Day 04** | In-place Word Reverse & Second Maximum Finder | `Day_04/` | ⏳ Pending |
+| **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | `Day_05/` | ⏳ Pending |
+| **Day 06** | 3x3 Matrix Multiplication & Number Substring Extraction | `Day_06/` | ⏳ Pending |
+| **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | `Day_07/` | ⏳ Pending |
+| **Day 08** | Prime Digits Multiplier (Single Inheritance) & Password Strength Checker | `Day_08/` | ⏳ Pending |
+| **Day 09** | Sentence Integer Summation & Odd-Even Position Digits Swap | `Day_09/` | ⏳ Pending |
+| **Day 10** | Recursion OOPs (Factorial, Fibonacci, Tower of Hanoi) & Linear Queue | `Day_10/` | ⏳ Pending |
+| **Day 11** | Circular Queue Implementation & Array Stack Implementation | `Day_11/` | ⏳ Pending |
+
+---
+git clone [https://github.com/pradeepjatav07-byte/C-Plus-Plus-Journey.git](https://github.com/pradeepjatav07-byte/C-Plus-Plus-Journey.git)
+# Move into project directory
+cd C-Plus-Plus-Journey
+
+# Navigate to target day folder
+cd Day_03
+
+# Compile source file
+g++ Substring_Formatter.cpp -o Substring_Formatter
+
+# Run executable binary (Windows)
+.\Substring_Formatter.exe
