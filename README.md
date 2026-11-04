@@ -29,7 +29,9 @@ C-Plus-Plus-Journey/
 ├── Day_03/
 │   ├── Substring_Formatter.cpp
 │   └── Word_Reversal.cpp
-└── 
+├── Day_04/
+│   ├── Inplace_Word_Reverse.cpp
+│   └── Second_Maximum_Finder.cpp
 ```
 ## 📌 Practical Syllabus & Progress Tracker
 
@@ -38,7 +40,7 @@ C-Plus-Plus-Journey/
 | **Day 01** | C++ Manipulators (`setw`, `setfill`) & OOP Logic (GCD / Even-Odd Count & Sum) | [`Manipulator_Patterns.cpp`](Day_01/Manipulator_Patterns.cpp)<br>[`GCD_Even_Odd_Class.cpp`](Day_01/GCD_Even_Odd_Class.cpp) | ✅ Completed |
 | **Day 02** | Hourglass Number Pattern & Series Summation Class | [`Hourglass_Pattern.cpp`](Day_02/Hourglass_Pattern.cpp)<br>[`Series_Summation.cpp`](Day_02/Series_Summation.cpp) | ✅ Completed |
 | **Day 03** | Substring Formatter & Word Reversal (Class Based) | [`Substring_Formatter.cpp`](Day_03/Substring_Formatter.cpp)<br>[`Word_Reversal.cpp`](Day_03/Word_Reversal.cpp) | ✅ Completed |
-| **Day 04** | In-place Word Reverse & Second Maximum Finder | `Day_04/` | ⏳ Pending |
+| **Day 04** | In-place Word Reverse & Second Maximum Finder | [`Inplace_Word_Reverse.cpp`](Day_04/Inplace_Word_Reverse.cpp)<br>[`Second_Maximum_Finder.cpp`](Day_04/Second_Maximum_Finder.cpp) | ✅ Completed |
 | **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | `Day_05/` | ⏳ Pending |
 | **Day 06** | 3x3 Matrix Multiplication & Number Substring Extraction | `Day_06/` | ⏳ Pending |
 | **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | `Day_07/` | ⏳ Pending |
