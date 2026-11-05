@@ -32,6 +32,9 @@ C-Plus-Plus-Journey/
 ├── Day_04/
 │   ├── Inplace_Word_Reverse.cpp
 │   └── Second_Maximum_Finder.cpp
+├── Day_05/
+│   ├── Array_Insertion.cpp
+│   └── Sorting_Selector.cpp
 ```
 ## 📌 Practical Syllabus & Progress Tracker
 
@@ -41,7 +44,7 @@ C-Plus-Plus-Journey/
 | **Day 02** | Hourglass Number Pattern & Series Summation Class | [`Hourglass_Pattern.cpp`](Day_02/Hourglass_Pattern.cpp)<br>[`Series_Summation.cpp`](Day_02/Series_Summation.cpp) | ✅ Completed |
 | **Day 03** | Substring Formatter & Word Reversal (Class Based) | [`Substring_Formatter.cpp`](Day_03/Substring_Formatter.cpp)<br>[`Word_Reversal.cpp`](Day_03/Word_Reversal.cpp) | ✅ Completed |
 | **Day 04** | In-place Word Reverse & Second Maximum Finder | [`Inplace_Word_Reverse.cpp`](Day_04/Inplace_Word_Reverse.cpp)<br>[`Second_Maximum_Finder.cpp`](Day_04/Second_Maximum_Finder.cpp) | ✅ Completed |
-| **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | `Day_05/` | ⏳ Pending |
+| **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | [`Array_Insertion.cpp`](Day_05/Array_Insertion.cpp)<br>[`Sorting_Selector.cpp`](Day_05/Sorting_Selector.cpp) | ✅ Completed |
 | **Day 06** | 3x3 Matrix Multiplication & Number Substring Extraction | `Day_06/` | ⏳ Pending |
 | **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | `Day_07/` | ⏳ Pending |
 | **Day 08** | Prime Digits Multiplier (Single Inheritance) & Password Strength Checker | `Day_08/` | ⏳ Pending |
