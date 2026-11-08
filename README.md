@@ -38,6 +38,9 @@ C-Plus-Plus-Journey/
 ├── Day_06/
 │   ├── Matrix_Multiplication.cpp
 │   └── Number_Substring_Extraction.cpp
+├── Day_07/
+│   ├── Vertical_Star_Pattern.cpp
+│   └── Binary_To_Decimal_Constructor.cpp
 ```
 ## 📌 Practical Syllabus & Progress Tracker
 
@@ -49,7 +52,7 @@ C-Plus-Plus-Journey/
 | **Day 04** | In-place Word Reverse & Second Maximum Finder | [`Inplace_Word_Reverse.cpp`](Day_04/Inplace_Word_Reverse.cpp)<br>[`Second_Maximum_Finder.cpp`](Day_04/Second_Maximum_Finder.cpp) | ✅ Completed |
 | **Day 05** | Array Element Insertion & Sorting Selector (Bubble / Selection) | [`Array_Insertion.cpp`](Day_05/Array_Insertion.cpp)<br>[`Sorting_Selector.cpp`](Day_05/Sorting_Selector.cpp) | ✅ Completed |
 | **Day 06** | 3x3 Matrix Multiplication & Number Substring Extraction | [`Matrix_Multiplication.cpp`](Day_06/Matrix_Multiplication.cpp)<br>[`Number_Substring_Extraction.cpp`](Day_06/Number_Substring_Extraction.cpp) | ✅ Completed |
-| **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | `Day_07/` | ⏳ Pending |
+| **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | [`Vertical_Star_Pattern.cpp`](Day_07/Vertical_Star_Pattern.cpp)<br>[`Binary_To_Decimal_Constructor.cpp`](Day_07/Binary_To_Decimal_Constructor.cpp) | ✅ Completed |
 | **Day 08** | Prime Digits Multiplier (Single Inheritance) & Password Strength Checker | `Day_08/` | ⏳ Pending |
 | **Day 09** | Sentence Integer Summation & Odd-Even Position Digits Swap | `Day_09/` | ⏳ Pending |
 | **Day 10** | Recursion OOPs (Factorial, Fibonacci, Tower of Hanoi) & Linear Queue | `Day_10/` | ⏳ Pending |
