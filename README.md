@@ -44,6 +44,9 @@ C-Plus-Plus-Journey/
 ├── Day_08/
 │   ├── Prime_Digits_Multiplier.cpp
 │   └── Password_Strength_Checker.cpp
+├── Day_09/
+│   ├── Sentence_Integer_Summation.cpp
+│   └── Odd_Even_Digits_Swap.cpp
 ```
 ## 📌 Practical Syllabus & Progress Tracker
 
@@ -57,7 +60,7 @@ C-Plus-Plus-Journey/
 | **Day 06** | 3x3 Matrix Multiplication & Number Substring Extraction | [`Matrix_Multiplication.cpp`](Day_06/Matrix_Multiplication.cpp)<br>[`Number_Substring_Extraction.cpp`](Day_06/Number_Substring_Extraction.cpp) | ✅ Completed |
 | **Day 07** | Vertical Star Character Pattern & Binary to Decimal Constructor | [`Vertical_Star_Pattern.cpp`](Day_07/Vertical_Star_Pattern.cpp)<br>[`Binary_To_Decimal_Constructor.cpp`](Day_07/Binary_To_Decimal_Constructor.cpp) | ✅ Completed |
 | **Day 08** | Prime Digits Multiplier (Single Inheritance) & Password Strength Checker | [`Prime_Digits_Multiplier.cpp`](Day_08/Prime_Digits_Multiplier.cpp)<br>[`Password_Strength_Checker.cpp`](Day_08/Password_Strength_Checker.cpp) | ✅ Completed |
-| **Day 09** | Sentence Integer Summation & Odd-Even Position Digits Swap | `Day_09/` | ⏳ Pending |
+| **Day 09** | Sentence Integer Summation & Odd-Even Position Digits Swap | [`Sentence_Integer_Summation.cpp`](Day_09/Sentence_Integer_Summation.cpp)<br>[`Odd_Even_Digits_Swap.cpp`](Day_09/Odd_Even_Digits_Swap.cpp) | ✅ Completed |
 | **Day 10** | Recursion OOPs (Factorial, Fibonacci, Tower of Hanoi) & Linear Queue | `Day_10/` | ⏳ Pending |
 | **Day 11** | Circular Queue Implementation & Array Stack Implementation | `Day_11/` | ⏳ Pending |
 
